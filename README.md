@@ -1,3 +1,8 @@
+```
+Status: Draft specification — under review by the HSWG (Hardware Sustainability Working Group).
+Feedback and contributions from data center, sustainability, and software domain experts are welcome.
+```
+
 # SILO — Standardized Interoperability Layer for Real-Time Sustainability Optimization
 
 > A vendor-neutral semantic and interoperability specification for real-time sustainability optimization in data centers.
@@ -109,10 +114,3 @@ Success is evaluated by the **availability, consistency, and interoperability** 
 - **Bridging the Sustainability Gap** (white paper) — defines the external interface between the data center and the grid (grid signal ingestion, power source awareness, ESG output)
 - **Companion Technical Note** — clarifies how this internal interoperability layer and the external interface form one complete, deployable architecture
 
-## Status
-
-Draft specification — under review by the HSWG (Hardware Sustainability Working Group). Feedback and contributions from data center, sustainability, and software domain experts are welcome.
-
-## License
-
-_Add license information here._

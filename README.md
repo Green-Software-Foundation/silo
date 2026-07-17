@@ -2,6 +2,7 @@
 Status: Draft specification — under review by the HSWG (Hardware Sustainability Working Group).
 Feedback and contributions from data center, sustainability, and software domain experts are welcome.
 ```
+[Initial G-Doc baseline](https://docs.google.com/document/d/1NeAzw4Ivhm68oK_HRcEV86rBflV6lsGG/edit)
 
 # SILO — Standardized Interoperability Layer for Real-Time Sustainability Optimization
 

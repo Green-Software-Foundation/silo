@@ -32,21 +32,11 @@ subject to change as review proceeds, in particular the items listed in Annex D.
 
 ## Introduction
 
-Two decades of PUE work have squeezed most of the efficiency out of individual systems. What’s left sits in the coordination between them, and coordination needs shared meaning. SILO is the vocabulary that lets a cooling plant, a workload scheduler, and a reporting tool describe the same facility in the same terms.
+Two decades of Power Usage Effectiveness (PUE) work have squeezed most of the efficiency out of individual systems. What’s left sits in the coordination between them, and coordination needs shared meaning. SILO is the vocabulary that lets a cooling plant, a workload scheduler, and a reporting tool describe the same facility in the same terms.
 
-Efficiency and sustainability are not the same property. A data center can operate at
-its best-ever Power Usage Effectiveness and still be unsustainable, because
-sustainability depends on the relationship between power *demand* and power *supply
-composition* — how much of the power drawn at any given moment is low-carbon versus,
-for example, diesel backup — not on demand alone.
+Efficiency and sustainability are not the same property. A data center can operate at its best-ever PUE and still be unsustainable, because sustainability depends on the relationship between power demand and power supply composition — how much of the power drawn at any given moment is low-carbon versus, for example, diesel backup — not on demand alone.
 
-Coordinating IT workload behavior with real-time grid conditions requires that grid
-signals and facility/workload telemetry be expressed in a common, interpretable form.
-No such common form currently exists across vendors and domains. This document
-specifies that common form: a semantic interoperability layer that normalizes
-telemetry already collected under WDPC so that it can be consistently interpreted,
-exchanged, and acted on — including on a sub-hourly basis — without requiring any
-particular sustainability/performance tradeoff to be built into the standard itself.
+Coordinating IT workload behavior with real-time grid conditions requires that grid signals and facility/workload telemetry be expressed in a common, interpretable form. No such common form currently exists across vendors and domains. This document specifies that common form: a semantic interoperability layer that normalizes telemetry already collected under WDPC so that it can be consistently interpreted, exchanged, and acted on — including on a sub-hourly basis — without requiring any particular sustainability/performance tradeoff to be built into the standard itself.
 
 ---
 

@@ -32,6 +32,8 @@ subject to change as review proceeds, in particular the items listed in Annex D.
 
 ## Introduction
 
+Two decades of PUE work have squeezed most of the efficiency out of individual systems. What’s left sits in the coordination between them, and coordination needs shared meaning. SILO is the vocabulary that lets a cooling plant, a workload scheduler, and a reporting tool describe the same facility in the same terms.
+
 Efficiency and sustainability are not the same property. A data center can operate at
 its best-ever Power Usage Effectiveness and still be unsustainable, because
 sustainability depends on the relationship between power *demand* and power *supply

@@ -10,7 +10,7 @@ Where WDPC and SILO use the same word differently, both meanings are given.
 
 | Term | Definition | Source |
 |---|---|---|
-| **SILO** | A proposed vendor-neutral semantic layer that sits above the WDPC data bus and gives telemetry from multiple vendors and domains a common, consistent meaning. The website expands the name as Sustainability Interoperability Layer for Operations. The draft specification expands it as Standardized Interoperability Layer for Real-Time Sustainability Optimization. | [1][2] |
+| **SILO** | Standardized Interoperability Layer for Real-Time Sustainability Optimization. A proposed vendor-neutral semantic layer that sits above the WDPC data bus and gives telemetry across compute, power, cooling, networking, storage and facility systems a common, consistent meaning. Earlier GSF publications use the name Sustainability Interoperability Layer for Operations. | [1][2] |
 | **WDPC** | Workload Dynamic Power and Cooling. An approved GSF standard that defines a central data bus and data models so workloads, data centres and power grids can exchange data in real time. | [3][4] |
 | **External Grid Interface** | A proposed GSF specification for how a data centre receives and responds to real-time grid signals, set out in the draft white paper *Bridging the Sustainability Gap*. | [6][7] |
 | **Project Mycelium** | A 2025 Hardware Standards Working Group Assembly that produced a data model for how hardware and software sustainability data relate. It led to WDPC. | [8][9] |
@@ -63,7 +63,7 @@ Where WDPC and SILO use the same word differently, both meanings are given.
 | **Grid interface** (SILO usage) | Phase 1 of the draft SILO specification includes a two-way grid interface. It ingests grid signals and outputs facility and workload responses to grid conditions. Whether this should be one interface or two is an open issue. | [2] |
 | **Ingestion** | The direction of the grid interface that receives grid signals into the facility. | [2] |
 | **Control-direction output** | The direction of the grid interface that expresses how the facility or workloads respond to grid conditions. | [2] |
-| **Carbon intensity** | The carbon emitted per unit of electricity at a given time and place. SILO Phase 1 includes carbon-intensity and renewable composition signals. | [2][7] |
+| **Carbon intensity** | The carbon emitted per unit of electricity at a given time and place. The draft SILO specification proposes covering carbon-intensity and renewable composition signals in its first phase. | [2][7] |
 | **Supply composition** | The mix of sources behind the power drawn at a given moment, such as low-carbon generation versus diesel backup. The draft SILO specification identifies this, not efficiency alone, as what determines sustainability. | [2] |
 | **Demand response** | Changing power consumption in response to grid operator requests or market signals. | [4] |
 | **Workload flexibility** | The ability of workloads to adjust power use, timing or resource allocation in response to constraints or external signals. | [4] |
@@ -75,7 +75,7 @@ Where WDPC and SILO use the same word differently, both meanings are given.
 
 | Term | Definition | Source |
 |---|---|---|
-| **CDU** | Coolant Distribution Unit. Equipment that circulates liquid coolant to computing hardware. CDU telemetry is deferred to a future SILO phase. | [2][5] |
+| **CDU** | Coolant Distribution Unit. Equipment that circulates liquid coolant to computing hardware. The draft SILO specification proposes covering CDU telemetry in a later phase. | [2][5] |
 | **Liquid cooling system** | A thermal management system that uses liquid coolant to move heat away from computing hardware, in single-phase or two-phase forms. | [4] |
 | **BMS** | Building Management System. The facility control system that holds much of the existing data stream SILO builds on. | [2][5] |
 | **Municipal heat network** | A district heating system that distributes heat to buildings. WDPC supports coordinating data centre waste heat delivery to these networks. | [3][4] |
@@ -112,7 +112,8 @@ Where WDPC and SILO use the same word differently, both meanings are given.
 | **Shall / should / may / can** | ISO drafting language used in the SILO specification: shall means mandatory, should means recommended, may means permitted, and can means possible. | [2] |
 | **Open issue** | A deliberately unresolved point in the draft specification, kept open for reviewer input before requirements are fixed. The current draft has four. | [2] |
 | **Conformance** | Meeting a specification's requirements. For SILO, it means exposing Phase 1 telemetry through the semantic model, implementing the APIs and meeting the interoperability requirements. It does not imply any sustainability outcome. | [2] |
-| **Phase 1** | The first release scope of SILO in the current draft, covering power and grid-interaction telemetry. Cooling, environmental and network domains are deferred to later phases. | [2] |
+| **Conformance** | Meeting a specification’s requirements. For SILO, it means exposing in-scope telemetry through the semantic model, implementing the APIs and meeting the interoperability requirements. It does not imply any sustainability outcome. | [2] |
+| **Phasing** | The draft SILO specification proposes delivering in phases, starting with power and grid interaction, with cooling, environmental and network domains following. The phasing is open to the Assembly. | [2] |
 | **Standards lifecycle** | The stages a GSF standard moves through: Proposal, Pre-Draft, Draft, Consistency Review, Working Group Approval, Steering Committee Ratification and Publication. | [1] |
 | **Committee Draft** | A formal draft submitted for committee review on the path towards ISO standardisation. | [2][5] |
 

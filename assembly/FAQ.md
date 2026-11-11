@@ -1,0 +1,42 @@
+# Assembly FAQ
+
+Common questions about taking part in the SILO Assembly. For the full picture, see the Participant Handout.
+
+## How the Assembly works
+
+- **How many rounds will there be?** It depends on the topic. Where the group already broadly agrees, a topic can move quickly; where opinion is divided, it takes longer. Each phase has a cap, so no topic can run on indefinitely.
+- **Who decides when we move on?** The facilitator surfaces where things stand and recommends; The project chair, decides the transition. The facilitator never takes a position on the substance.
+- **Who sets the questions each round?** The questions are designed by the facilitation team together with the project chair, grounded in the Assembly's Design Document, which fixes the five topics the work moves through. Within that structure, what you and the other participants raise shapes the questions that follow: points surfaced in one round inform how the next is framed. So the overall path is set in advance, but the detail is shaped by the group as you go.
+- **What if I miss a round?** For Discover, the gating rule means you rejoin at the next topic. For Decide, silence is recorded as consent. If you know you will be away, a quick note is appreciated but not required. The process moves on a quorum basis, so quieter periods, holidays included, do not stall it; you can step back for a round and pick up again without holding anyone up.
+- **Can I change my mind mid-topic?** Yes, within a phase. Minds visibly changing is the strongest sign the process is working. Once a topic closes, it does not reopen.
+- **What if I am not an expert in a particular topic?** Every round carries the core questions plus an optional technical deep-dive. Answer at your level. The Research Note's two tracks are there to level the ground.
+- **Deadlines say "Anywhere on Earth". What does that mean?** As long as the deadline date hasn't ended in the last time zone on the planet, you are on time. Practically: if it is still that date anywhere in the world, your reply counts. No time zone is ever penalised.
+- **How much time will this take?** Expect around 30-90 minutes in an active week.
+
+## AI, synthesis and accuracy
+
+- **How is AI used in this Assembly, and does it decide anything?** No. The AI reads everyone's responses and drafts summaries and candidate positions to react to. It never makes a decision. Every rating, every vote and every objection is made by you and the other participants, and the facilitator reviews what the AI produces before it reaches you. It is a lens that helps the group see its own thinking, not a judge.
+- **What if the synthesis gets my point wrong?** You will see it, and you can correct it. Every synthesis is reviewed before it goes out, each one opens by showing what changed because of the group's input, and you get to respond every round. If a candidate has missed something you care about, rate it low and say why. A position that leaves someone behind does not go forward.
+- **Can I check that my response was actually counted?** Yes. The process keeps a verifiable record, and you can ask for confirmation that your exact response was included in its round. This is how we make the process auditable without ever attaching your name to what you said.
+- **Doesn't running AI carry its own carbon cost?** It is not free, but it is far smaller than what it replaces. Deliberating by email avoids the travel and repeated video calls a group this size would otherwise need, which is where the real emissions sit. For a foundation focused on software's footprint, running the process lightly is part of the point.
+
+## Participation experience
+
+- **Will this feel impersonal, with everything happening over email?** The written, asynchronous format is a deliberate choice, not a cost saving. It gives everyone equal space to make their case, so the outcome turns on the best argument rather than on who is most senior, most fluent, or quickest to reply. We also know a group is more than its arguments, which is why the optional drop-in calls exist purely for connection. The thinking happens in writing; the human side happens there.
+- **Do I need to install anything?** No. Everything works by replying to email.
+- **Does my writing style matter? English is not my first language.** Not at all. We care about your reasoning, not your prose. Write in whatever style suits you, use bullet points, or dictate your answer with speech-to-text. Nothing is graded on polish.
+- **How can something this complex be settled in limited words per topic?** Because the blueprint agrees direction, not specification text. The formal conventions are drafted afterwards from what the group settles. Short consensus text is deliberate: it forces the group to decide what matters most, which is the actual deliberation. Unlimited space produces documents that include everyone's opinion and represent no one's agreement.
+
+## Privacy, visibility and role
+
+- **Can other participants see what I write?** No; only anonymised synthesis is shared back. Nothing is ever published outside the Assembly with your name against it.
+- **How is my personal data handled?** In short: we collect your name, email and responses; your identity is separated from your responses before any AI processing; and we publish agreed outcomes and anonymised synthesis, never your individual responses. The full detail, including retention, third parties and your rights, is in the Privacy Notice.
+- **Am I taking part as myself or on behalf of my employer?** As yourself. You were selected for your expertise, not as an organisational representative, and nothing you write is ever published with your name or your employer's against it. This is true for everyone, whether or not your organisation is a GSF member. The only thing that differs by employer is the paperwork to take part: if your organisation is not a GSF member, you complete a short participation agreement before the first round; if it is a member, you are already covered by that membership and need do nothing. Either way, you contribute as an individual expert.
+- **I maintain a tool in this space. Is that a conflict of interest?** No, it is part of why you are here. Practical experience of what can actually be measured is exactly what the blueprint needs. The process stays neutral by design: proposals are always framed around what any backend must be able to compute, never around what any particular tool emits, and no tool or vendor is given special standing.
+
+## Consensus, voting and disagreement
+
+- **What do Endorse, Consent and Object actually mean?** Endorse means you actively support the proposal and put your name behind it. Consent means you can live with it; not your ideal, but not something you would block. Object means you cannot accept it as written, and an objection always comes with an explanation of what would need to change. Consent is not a lesser vote; most healthy consensus is built on it.
+- **I disagree with a proposal, but I don't want to be difficult. Should I just consent?** No. Objecting is not confrontational here; it is the mechanism doing its job, and it is the only moment your disagreement can change the text, because settled topics do not reopen. An objection starts a conversation: you say what would need to change, the group works on it, and a revised proposal comes back. A consent you don't mean is the one move that genuinely harms the process.
+- **Does every objection add a week to the process?** No. An objection is handled within the round's existing window: the group works on what you have raised and a revised proposal comes back, usually in a matter of days rather than a new week. Only an objection that opens a genuinely substantive gap, one the group agrees needs more work, extends the timeline, and that is the process working as intended rather than a delay. Routine objections are expected and built into the pace.
+- **One of the candidates seems designed to be disagreed with. Why?** It is. Each Deliberate round presents three candidates, and one of them deliberately amplifies under-represented viewpoints and challenges where the group seems to be heading. Explaining why you reject something reveals what you actually care about, often more than explaining what you like. It is there to sharpen the group's thinking, not to trick anyone.

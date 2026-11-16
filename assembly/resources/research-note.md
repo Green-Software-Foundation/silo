@@ -289,8 +289,8 @@ Prior art is reference evidence only and confers no standing in the deliberation
 
 # References
 
-1. Green Software Foundation. *SILO: Sustainability Interoperability Layer for Operations*. https://greensoftware.foundation/standards/silo/
-2. GSF Hardware Standards Working Group. *SILO: Standardized Interoperability Layer for Real-Time Sustainability Optimization*, initial baseline specification (pre-standard working draft), GitHub. https://github.com/Green-Software-Foundation/silo/blob/initial-baseline/SPEC.md
+1. Green Software Foundation. *SILO: Sustainability Interoperability Layer for Optimization*. https://greensoftware.foundation/standards/silo/
+2. GSF Hardware Standards Working Group. *SILO: Sustainability Interoperability Layer for Optimization*, initial baseline specification (pre-standard working draft), GitHub. https://github.com/Green-Software-Foundation/silo/blob/initial-baseline/SPEC.md
 3. Green Software Foundation. *WDPC: Workload Dynamic Power and Cooling*. https://greensoftware.foundation/standards/wdpc/
 4. Green Software Foundation. *Workload Dynamic Power and Cooling (WDPC) Specification*, GitHub. https://github.com/Green-Software-Foundation/Workload-Dynamic-Power-and-Cooling/blob/dev/WDPC-Spec.md
 5. Green Software Foundation. *SILO Project Q&A*, 3 August 2026. https://greensoftware.foundation/policy/research/silo-project-qa/

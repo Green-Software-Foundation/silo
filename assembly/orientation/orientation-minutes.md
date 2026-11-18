@@ -212,8 +212,6 @@ That is exactly the pattern we expect: **score, converge, vote, and resolve obje
 | **Christmas** | A break in the schedule |
 | **Around start of 2027** | Target for the Assembly report |
 
-> 📌 **[Placeholder: insert full topic-by-topic schedule]**
-
 ---
 
 ## 📄 What Comes Out of It
@@ -239,9 +237,9 @@ It is a **starting point, not a finished specification.** GSF has a track record
 
 ## ✅ Before Monday: Your Checklist
 
-- [ ] **If you are not from a GSF member organisation:** complete the non-member participation form. We cannot add you to the Assembly without it. It is short and simply confirms our IP and contribution process. **[Link]**
-- [ ] **Check your junk folder** and safelist Assembly emails from **[sending address]**.
-- [ ] **Watch the recording** if you missed the session: **[Link]**
+- [ ] **If you are not from a GSF member organisation:** complete the non-member participation form. We cannot add you to the Assembly without it. It is short and simply confirms our IP and contribution process. **https://forms.gle/KrnfVKA4snWDhU977**
+- [ ] **Check your junk folder** and safelist Assembly emails from **harmony+assemblies@greensoftware.foundation**.
+- [ ] **Watch the recording** if you missed the session: **https://zoom.us/rec/share/FEEzgDzDZkRUYI5NqT6F-Vm4fljFLTGKzqRkH_ecU7oUuokCXDEKzPZuUo-kuTW-.nwEsjcRb-_DFsStX**
 - [ ] **Look out for the Topic 1 Discover email** on **Monday 23 November**.
 
 ---
@@ -250,8 +248,8 @@ It is a **starting point, not a finished specification.** GSF has a track record
 
 | Topic | Contact |
 |:---|:---|
-| **SILO or the specification** | Jabari George · **[email]** |
-| **The Assembly process** | Russ Trow · **[email]** |
+| **SILO or the specification** | Jabari George · **jabari@greensoftware.foundation** |
+| **The Assembly process** | Russ Trow · **russell@greensoftware.foundation** |
 
 ---
 

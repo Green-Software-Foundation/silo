@@ -26,4 +26,4 @@
 
 ## Where This Came From
 
-[Two sentences, with no attribution, linking this candidate to the Topic 1 Discover synthesis. The first sentence names the theme or themes from the responses that this candidate builds on, described as the group expressed them, for example "Many participants..." or "A smaller group...". The second names a concern or disagreement raised in Discover that this candidate responds to, and how it responds. Use only themes that appear in the Discover synthesis. Describe the evidence, don't argue that the candidate follows from it.]
+[Two sentences, with no attribution, linking this candidate to the Topic 1 Discover synthesis, plus a third where the last instruction below applies. ... The second names a concern or disagreement raised in Discover that this candidate responds to, and how it responds. If this candidate pairs answers that no Discover response held together, add a third sentence saying so. Use only themes that appear in the Discover synthesis. Describe the evidence, don’t argue that the candidate follows from it.]

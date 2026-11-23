@@ -1,1 +1,28 @@
+# Candidate [Letter]: [Short plain-language title, 3 to 6 words]
 
+[The position in one sentence of 25 words or fewer, saying who translates source data, what the SILO APIs serve and how Signals move. Name the answers on which this candidate differs from at least one of the other two. Never present an answer all three candidates share as a difference. It states the position, not the reasons for it. A vendor, operator or application builder should be able to read it once and repeat back who does the translation work and what a consuming application receives.]
+
+## How It Works
+
+[100 to 150 words in plain language, in the voice of the final Report ("Translation is carried out by...", not "This candidate proposes..."). First state the principle behind this position: what it treats as most important about who carries the cost of translation and what consumers can rely on. Then show that principle at work on one example: a single reading from one vendor's device, followed from the moment the device reports it in its native protocol to the moment a consuming application receives it, saying who translates it and what the application receives. End with one sentence on how a Signal, such as a planned rise in workload, would travel. Do not restate the table row by row; the table carries the answers. Name a protocol only as an example. Do not say which elements are part of SILO or what anyone must do to conform; that is Topic 1. Do not name measurements or units (Topic 3) or validation and lineage (Topic 4).]
+
+## The Data Path
+
+[Identical rows, in the same order, in all three candidates, so reviewers can compare answers row by row. Never drop a row. Each answer is the agreed text for that decision and must agree with How It Works. No row's answer may contradict another row's. Where the Discover responses agree on an answer, every candidate gives it in the same words. Candidates differ only on rows where the responses disagree, and every disagreement the Discover synthesis records has each side taken by at least one candidate. A starting position stands in every candidate unless at least one response challenges it. Name every party and element exactly as in the shared vocabulary.]
+
+| Decision | Answer |
+|---|---|
+| **D1: Who is responsible for translating source data into the SILO Semantic Layer?** | [Vendor software and adapters; the interoperability layer an operator runs; or shared, with vendor software and adapters translating the data they support and the operator's interoperability layer translating everything else. If vendor software and adapters translate, state that they do so in addition to their native protocol. If shared, say who is responsible when the two translations disagree, only where Discover responses addressed it. Translation includes unit conversion: say who converts units, never which units. Up to 35 words.] |
+| **D2: What may the SILO APIs serve?** | [Normalized data only; normalized data with raw data through a separate, clearly marked route; or normalized and raw data through the same route, with every value marked as raw or normalized. If raw data is allowed, say in plain terms how a consuming application tells it apart from normalized data, without describing data fields or formats. Up to 30 words.] |
+| **D3: How do Signals move?** | [Through SILO in both directions, as Metrics do; visible to consumers through SILO but reaching infrastructure directly on the WDPC Data Bus; or not served by SILO at all, travelling directly on the WDPC Data Bus. Must not state or imply that SILO operates or controls infrastructure. Up to 25 words.] |
+| **Starting position: How does data reach SILO?** | [Write "Through the WDPC Data Bus" unless this candidate challenges the starting position. Where it does, name which sources connect another way, for example through Protocol Adapters without using the bus, and why, in up to 20 words.] |
+
+## Trade-offs
+
+**Gains:** [One or two sentences on who this position works best for among vendors, operators, systems integrators and consuming applications, and what it makes possible or easier for them that the other two candidates do not. Draw only on the answers where this candidate differs; never claim a benefit all three share. Ground it in what participants said in Discover.]
+
+**Gives up:** [One or two sentences on who bears the cost of this position and what it rules out, delays or makes harder compared with the other two candidates. Draw only on the answers where this candidate differs; never attribute to it a cost all three share. Include any effect on work owned by other Topics, for example whether raw data could carry lineage (Topic 4), or which conformance target would have to answer for translation quality (Topic 5). Write it as a supporter of this candidate would describe its cost fairly, not as a weakness designed to make it lose. If this is hard to write, the candidate is not yet distinct enough from the other two.]
+
+## Where This Came From
+
+[Two sentences, with no attribution, linking this candidate to the Topic 2 Discover synthesis. The first sentence names the theme or themes from the responses that this candidate builds on, described as the group expressed them, for example "Many participants..." or "A smaller group...". The second names a concern or disagreement raised in Discover that this candidate responds to, and how it responds. If this candidate pairs answers that no Discover response held together, add a third sentence saying so. Use only themes that appear in the Discover synthesis. Describe the evidence, don't argue that the candidate follows from it.]
